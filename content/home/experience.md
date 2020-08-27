@@ -70,4 +70,38 @@ date_format = "Jan 2006"
  * Semester long position per recommendation of Dr. David Weber.
  * Received top award for outstanding performance as a teaching assistant by ISM faculty.
  """
+ 
+[[experience]]
+ title = "Corporal E-4, MOS 1171"
+ company = "United States Marine Corps (USMC)"
+ company_url = ""
+ location = "Hawai'i"
+ date_start = "2011-12-13"
+ date_end = "2015-06-16"
+ description = """
+ Responsibilities & achievements include:
+ 
+ * Used written communication skills to plan field operations, monthly tasks, schedules and inform supervisors of the status of equipment and personnel.
+ * Utilized Oracle database to keep track of equipment and incoming repair parts.
+ * Cross trained outside of personal occupation to become flexible in the work environment.
+ * As a Non-Commissioned Officer, held billet of Section Chief, directly responsible for over $4,000,000 in equipment, and planning of the organization of any operations or transportation.
+ * Maintained approximately 25 diesel generators, 15 water systems, 10 water pumps, and 20 different heavy operating machines.
+ * Carried out assignments delegated by superiors without supervision as Manager of 29 Marines.
+ """
+ 
+[[experience]]
+ title = "Diamond Consultant"
+ company = "Hannoush Jewelers"
+ company_url = ""
+ location = "Florida"
+ date_start = "2010-08-01"
+ date_end = "2011-12-01"
+ description = """
+ Responsibilities & achievements include:
+ 
+ * Appointed as lead sales of high valued watches due to personal dedication to study the product
+ * Sold a monthly average of $30,000 and $70,000 during peak seasons.
+ * Accountable for opening and closing the store and held responsible for the amount in the register.
+ * Coordinated with associates on large value items to ensure customer satisfaction resulting in improved teamwork.
+ """
 +++
