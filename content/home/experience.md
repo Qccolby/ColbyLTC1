@@ -18,18 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Assembler"
+  company = "Advantage Solutions"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Arizona"
+  date_start = "2018-02-01"
+  date_end = "2019-05-01"
   description = """
-  Responsibilities include:
+  Responsibilities & achievements include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Managed the assembly for three stores between Flagstaff and Cottonwood unsupervised.
+  * Coordinated with other assemblers and company headquarters to meet the needs of our clients.
+  * Managed and trained onboarding assemblers to be able to function independently without supervision.
+  * Assembled $17,000 worth of revenue in one year for Advantage Solutions
+  * Took initiative to maintain good relationships with clients due to payment being on a per-piece basis.
   """
 
 [[experience]]
