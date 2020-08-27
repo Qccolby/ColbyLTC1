@@ -35,12 +35,24 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Community Assistant"
+  company = "American Campus Communities"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Arizona"
+  date_start = "2017-04-01"
+  date_end = "2017-10-31"
+  description = """
+  Responsibilities & achievements include:
+  
+  * Maintain and encourage community involvement among residence.
+  * Managed the front desk during hours of operation with minimal management supervision.
+  * Enforce rules and policies of the apartment complex.
+  * Worked a minimum of 70 hours a week to complete turnover for the Suites.
+  * Took on the responsibility of being the overnight on call Community Assistance.
+  * Communicated information and policies with residence and relatives of residences during high stress seasons.
+  * Assisted in the organization, security, and management of Residence's personal documentation and information.
+  * Attended meetings with all Community Assistance and upper management to coordinate upcoming events.
+  * Established strong peer relationships with residents to encourage coordination and mentor ship.
+  """
 
 +++
