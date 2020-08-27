@@ -55,4 +55,19 @@ date_format = "Jan 2006"
   * Established strong peer relationships with residents to encourage coordination and mentor ship.
   """
 
+[[experience]]
+ title = "Information Systems Management 120 Teaching Assistant"
+ company = "Northern Arizona University"
+ company_url = ""
+ location = "Arizona"
+ date_start = "2016-01-01"
+ date_end = "2016-05-01"
+ description = """
+ Responsibilities & achievements include:
+ 
+ * Assisted with grading, distribution, guidance, and clarification of all Microsoft Suites content within class.
+ * Monitored and assisted students during lab hours for projects and exams without faculty presence.
+ * Semester long position per recommendation of Dr. David Weber.
+ * Received top award for outstanding performance as a teaching assistant by ISM faculty.
+ """
 +++
